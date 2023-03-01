@@ -1,0 +1,19 @@
+# NAME: OpenAI
+# AUTHOR: SirBrother
+# REPO: https://github.com/SirBrother/Clash-Rules
+
+payload:
+  - DOMAIN-SUFFIX, ai.com
+  - DOMAIN-SUFFIX, openai.com
+  - DOMAIN-SUFFIX, vimeo.com
+  - DOMAIN-SUFFIX, vimeocdn.com
+  - DOMAIN-SUFFIX, hcaptcha.com
+  - DOMAIN-SUFFIX, akamaized.com
+  - DOMAIN, cdn.auth0.com
+  - DOMAIN, openaiapi-site.azureedge.net
+# - DOMAIN-SUFFIX, googleapis.com
+# - DOMAIN-SUFFIX, gstatic.com
+# - DOMAIN-SUFFIX, googletagmanager.com
+# - DOMAIN-SUFFIX, f7tk.com
+# - DOMAIN-SUFFIX, doubleclick.com
+# - DOMAIN-SUFFIX, google-analytics.com
